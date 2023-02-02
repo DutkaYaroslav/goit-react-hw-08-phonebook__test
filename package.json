@@ -1,5 +1,6 @@
 {
   "name": "profile",
+  "homepage": "http://DutkaYaroslav.github.io/goit-react-hw-08-phonebook__test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
